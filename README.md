@@ -7,7 +7,7 @@ Check the examples below:
 #### Example 1:
 Run two tasks in parallel:
 
-```
+```python
 from pythreads import pythread
 from time import sleep
 
@@ -40,7 +40,7 @@ task2()
 #### Example 2
 Passing parameters
 
-```
+```python
 from pythreads import pythread
 from time import sleep
 
